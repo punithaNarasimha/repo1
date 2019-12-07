@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 igowhduhou
+=======
+fheoiho
+mummy mummy
+>>>>>>> b1
